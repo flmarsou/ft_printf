@@ -26,7 +26,7 @@ Run `make re` to recompile everything.
 | Turn in files | Makefile, \*.h, \*/\*.h, \*.c, \*/\*.c |
 | External functs. | malloc, free, write, va_start, va_arg, va_copy, va_end |
 | Libft authorized | Yes |
-| Description | Write a library that contains ft_printf(), a function that will mimic the original printf()
+| Description | Write a function called ft_printf(), that will mimic the original printf()
 
 # 📑 List of Files
 
