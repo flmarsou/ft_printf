@@ -1,15 +1,14 @@
 # 🦊 What is ft_printf?
 
-Because ft_putnbr() and ft_putstr() aren't enough!
-
-The aim of this project is to recreate some of the most useful functionalities of printf(). It teaches you about **variadic functions**, but also expands your [`Libft`](https://github.com/flmarsou/1-Libft).
+The **ft_printf** project aims to recreate some core functionalities of the standard **printf** function in C. \
+It will teach you about **variadic functions** and enhance your [Libft](https://github.com/flmarsou/1-Libft).
 
 # ⚒️ Compilation
 
 1. Run `make` to compile the library.
-Run `make re` to recompile everything.
+2. Run `make re` to recompile everything.
 
-2. You can include it to any other library in your projects.
+After compiling, you can include this library in any of your future projects.
 
 # 🧼 Cleaning
 
@@ -25,7 +24,7 @@ Run `make re` to recompile everything.
 | Program name | libftprintf.a |
 | Turn in files | Makefile, \*.h, \*/\*.h, \*.c, \*/\*.c |
 | External functs. | malloc, free, write, va_start, va_arg, va_copy, va_end |
-| Libft authorized | Yes |
+| [Libft](https://github.com/flmarsou/1-Libft) authorized | Yes |
 | Description | Write a function called ft_printf(), that will mimic the original printf()
 
 # 📑 List of Files
