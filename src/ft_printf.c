@@ -39,6 +39,8 @@ int	ft_printf(const char *format, ...)
 	unsigned int	total_length;
 	va_list			args;
 
+	if (!format)
+		return (-1);
 	i = 0;
 	total_length = 0;
 	va_start(args, format);
