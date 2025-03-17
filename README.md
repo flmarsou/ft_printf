@@ -17,16 +17,6 @@ After compiling, you can include this library in any of your future projects.
 
 ---
 
-# ✨ Summary
-
-|     |     |
-| --- | --- |
-| Program name | libftprintf.a |
-| Turn in files | Makefile, \*.h, \*/\*.h, \*.c, \*/\*.c |
-| External functs. | malloc, free, write, va_start, va_arg, va_copy, va_end |
-| [Libft](https://github.com/flmarsou/libft) authorized | Yes |
-| Description | Write a function called ft_printf(), that will mimic the original printf()
-
 # 📑 List of Files
 
 - [x] [`ft_printf`](https://github.com/flmarsou/ft_printf/blob/main/src/ft_printf.c) - Main file containing the scanner and parser.
